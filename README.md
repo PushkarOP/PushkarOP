@@ -10,7 +10,7 @@
 - 💬 Languages: Hindi, English
 
 <h2 align="center">👻 My Discord: </h2>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-2/563636648798322689.png" /></p>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-2/768018115254157313.png" /></p>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>

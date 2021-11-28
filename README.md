@@ -1,4 +1,4 @@
-<img src="https://github.com/pushkar-pro/README/blob/main/animation2.svg"/>
+<img src="https://github.com/pushkar-pro/pushkar-pro/blob/main/standard.gif"/>
 
 #### I am Pushkar Singh, Currently learning Python programming.
 

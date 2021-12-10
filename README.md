@@ -16,18 +16,18 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">👀 Visitor's count </h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{pushkar-pro}/count.svg" alt="pushkar-pro :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{pushkarop}/count.svg" alt="pushkarop :: Visitor's Count" /></p>
 
 <h4 align="center">💾 Profile stats </h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pushkar-pro&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="pushkar-pro :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pushkarop&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="pushkarop :: Profile Stats" /></p>
 
 <h4 align="center">🚀 Top langs </h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar-pro&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="pushkar-pro :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarop&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="pushkar-pro :: Top Langs" /></p>
 
 <h4 align="center">🏆 My Trophies </h4>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pushkar-pro&theme=discord" alt="pushkar-pro :: Top Langs" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pushkarop&theme=discord" alt="pushkarop :: Top Langs" /></p>
 
-<h6><b>©Copyright By pushkar-pro - 2021</b></h6>
+<h6><b>©Copyright By PushkarOP - 2021</b></h6>
 
 <!--
 **pushkar-pro/pushkar-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

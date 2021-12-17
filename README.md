@@ -2,7 +2,7 @@
 
 #### I am Pushkar Singh, Currently learning Python programming.
 
-- 👨‍💻 I’m currently learning Python
+- 👨‍💻 I’m currently learning Python, Javascript, Css, Html, Php
 - ❤ I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play online games

@@ -2,7 +2,7 @@
 
 ![YouAreVisitor](https://komarev.com/ghpvc/?username=pushkarop&label=You+Are+Visitor&color=blueviolet&style=for-the-badge)
 
-I'm a full-stack developer with a passion for open-source projects. If you have any questions or need help regarding my projects, feel free to reach out to me on [Discord](https://discord.com/invite/UxJZMUqbsb).
+I'm a full-stack developer with a passion for open-source projects. If you have any questions or need help regarding my projects, feel free to reach out to me on Discord ( pushkarop ).
 
 ## Skills
 

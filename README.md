@@ -12,3 +12,9 @@ I'm a okok developer with a passion for open-source projects. If you have any qu
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=pushkarop&show_icons=true&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarop&layout=compact&title_color=blueviolet&bg_color=00000000&icon_color=blueviolet&hide_border=true&text_color=AFE1AF&card_width=350)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pushkarop/pushkarop/output/github-snake.svg" />
+</picture>
